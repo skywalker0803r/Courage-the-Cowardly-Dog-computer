@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  color: #00FF00;
+  font-family: 'Courier New', monospace;
+  padding: 20px;
+}
+
+.screen {
+  max-width: 600px;
+  margin: auto;
+  border: 2px solid #00FF00;
+  padding: 20px;
+}
+
+#log {
+  white-space: pre-wrap;
+  margin-bottom: 10px;
+  min-height: 200px;
+}
+
+#input {
+  width: 100%;
+  background: black;
+  color: #00FF00;
+  border: 1px solid #00FF00;
+  padding: 10px;
+  font-family: inherit;
+}
